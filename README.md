@@ -1,4 +1,4 @@
-docker-cheat-sheet
+Docker Cheat Sheet
 ==================
 
-Cheat Sheet for Docker
+Author: Ajay G
